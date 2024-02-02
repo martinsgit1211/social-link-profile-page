@@ -1,0 +1,37 @@
+.parent{
+    background-color: hsl(0, 0%, 12%);
+    width: 30%;
+    margin: 10% auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
+}
+img{
+    border-radius: 50%;
+    width: 40%;
+}
+h1{
+    color: hsl(0, 0%, 100%);
+}
+h3{
+    color: hsl(75, 94%, 57%);
+}
+p{
+    color:  hsla(0, 0%, 100%, 0.801);
+}
+button{
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    padding: 10px 40px;
+    width: 80%;
+    margin: 10px 0px;
+    border-radius: 8px;
+}
